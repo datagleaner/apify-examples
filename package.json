@@ -1,0 +1,11 @@
+{
+  "name": "datagleaner-apify-examples",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Runnable JavaScript examples for Data Gleaner's Apify Actors",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "apify-client": "^2.25.0"
+  }
+}
