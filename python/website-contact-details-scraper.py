@@ -1,9 +1,9 @@
 """Extract emails, phones and social profiles from websites with Data Gleaner's
 Website Contact Details Scraper: https://apify.com/datagleaner/website-contact-details-scraper
 
-Price: US$4.00 per 1,000 websites with contacts (US$0.004 each); sites with no
-contacts are free. The Actor returns one item per input website, so the 3-site
-list below caps the run at 3 items and costs at most about US$0.012.
+Price: US$2.00 per 1,000 websites with an email (US$0.002 each); every other
+site, including sites with only phones or socials, is free. The Actor returns one item per input website, so the 3-site
+list below caps the run at 3 items and costs at most about US$0.006.
 
 Run: pip install apify-client && APIFY_TOKEN=... python website-contact-details-scraper.py
 """
