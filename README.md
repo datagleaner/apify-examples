@@ -35,7 +35,11 @@ The Python examples use apify-client 3.x, where `call()` returns a run object, s
 | [Google Hotels Scraper](https://apify.com/datagleaner/google-hotels-scraper) | Hotel prices for your dates, ratings and offers | [python](python/google-hotels-scraper.py) | [js](javascript/google-hotels-scraper.mjs) |
 | [Weibo Scraper](https://apify.com/datagleaner/weibo-scraper) | Sina Weibo posts by keyword or user, no login | [python](python/weibo-scraper.py) | [js](javascript/weibo-scraper.mjs) |
 | [Bilibili Scraper](https://apify.com/datagleaner/bilibili-scraper) | Bilibili videos, comments and danmaku | [python](python/bilibili-scraper.py) | [js](javascript/bilibili-scraper.mjs) |
-| YouTube Channel Contacts | YouTube channel emails and influencer contacts | [python](python/youtube-channel-contacts.py) | [js](javascript/youtube-channel-contacts.mjs) |
+| [YouTube Channel Contacts](https://apify.com/datagleaner/youtube-channel-contacts) | YouTube channel emails and influencer contacts | [python](python/youtube-channel-contacts.py) | [js](javascript/youtube-channel-contacts.mjs) |
+| [App Developer Email Finder](https://apify.com/datagleaner/app-developer-email-finder) | Developer emails of Google Play, App Store, Steam and Chrome Web Store apps | [python](python/app-developer-email-finder.py) | [js](javascript/app-developer-email-finder.mjs) |
+| [Company Leadership & Team Page Scraper](https://apify.com/datagleaner/team-page-contacts) | Named people, titles and LinkedIn links from company team pages | [python](python/team-page-contacts.py) | [js](javascript/team-page-contacts.mjs) |
+| [Shopify Partner & Agency Contacts](https://apify.com/datagleaner/shopify-partner-contacts) | Shopify agencies with public email and phone, by country | [python](python/shopify-partner-contacts.py) | [js](javascript/shopify-partner-contacts.mjs) |
+| [Researcher Email Finder](https://apify.com/datagleaner/researcher-email-finder) | Researchers by topic with the email they published in PubMed | [python](python/researcher-email-finder.py) | [js](javascript/researcher-email-finder.mjs) |
 | Xiaohongshu (RedNote) Scraper | Xiaohongshu notes with stats | [python](python/xiaohongshu-rednote-scraper.py) | [js](javascript/xiaohongshu-rednote-scraper.mjs) |
 | WeChat Articles | Public WeChat official account articles as text and Markdown | [python](python/wechat-articles.py) | [js](javascript/wechat-articles.mjs) |
 | China Brand Report | What Chinese social media says about a brand | [python](python/china-brand-report.py) | [js](javascript/china-brand-report.mjs) |
